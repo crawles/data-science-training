@@ -1,2 +1,7 @@
+.dbcred
+.dbcred_gpdb
 .DS_Store
 presentation
+.ipynb_checkpoint
+.idea
+*.pyc
