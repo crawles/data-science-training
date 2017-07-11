@@ -2,6 +2,6 @@
 .dbcred_gpdb
 .DS_Store
 presentation
-.ipynb_checkpoint
+.ipynb_checkpoints
 .idea
 *.pyc
