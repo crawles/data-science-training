@@ -1,13 +1,11 @@
-# West Nile Virus Prediction in the City of Chicago
+# Data Science Training
 
-My framework using Python with Jupyter notebook for approaching the Kaggle competition: [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus).
+A data science tutorial using SQL, Python, and Jupyter Notebook.
+
+The tutorial is centered around the Kaggle competition: [West Nile Virus Prediction](https://www.kaggle.com/c/predict-west-nile-virus).
 
 ## Problem Statement
 `Given weather, location, testing, and spraying data, this competition asks you to predict when and where different species of mosquitos will test positive for West Nile virus`
-
-## Approach
-
-More to come.
 
 ## Results
 
