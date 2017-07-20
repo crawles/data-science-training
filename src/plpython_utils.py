@@ -85,4 +85,3 @@ def brackets_balanced(string):
         if seen_first_bracket and brackets_balanced:
             return i
     return False
-
